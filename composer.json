@@ -1,0 +1,21 @@
+{
+  "name": "aveadev/magento-2-french-language-pack",
+  "description": "French language package for Magento 2",
+  "keywords": [
+    "magento", 
+    "french language",
+    "fr_FR"
+  ],
+  "type": "magento2-language",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Avea"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
