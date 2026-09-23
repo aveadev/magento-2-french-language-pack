@@ -15320,3 +15320,5 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Your account","Votre compte",module,Magento_Customer
 "Your Cart","Votre panier",module,Magento_Checkout
 "Legal guarantee notice","Avis de garantie légale",module,Swissup_CheckoutConsumerRights
+"Customer Login","Connexion client",module,Magento_Customer
+"Create New Customer Account","Créer un compte client",module,Magento_Customer
