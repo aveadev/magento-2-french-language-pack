@@ -15323,3 +15323,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Customer Login","Connexion client",module,Magento_Customer
 "Create New Customer Account","Créer un compte client",module,Magento_Customer
 "Selected shipping method is not available. Please select another shipping method for this order.","Le mode de livraison sélectionné n'est pas disponible. Veuillez en choisir un autre pour cette commande.",module,Magento_Checkout
+"The store will not work correctly when cookies are disabled.","La boutique ne fonctionnera pas correctement lorsque les cookies sont désactivés.",module,Magento_Theme
