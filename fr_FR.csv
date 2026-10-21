@@ -15324,3 +15324,8 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Create New Customer Account","Créer un compte client",module,Magento_Customer
 "Selected shipping method is not available. Please select another shipping method for this order.","Le mode de livraison sélectionné n'est pas disponible. Veuillez en choisir un autre pour cette commande.",module,Magento_Checkout
 "The store will not work correctly when cookies are disabled.","La boutique ne fonctionnera pas correctement lorsque les cookies sont désactivés.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,Votre carte ne dispose pas de fonds suffisants. Utilisez un autre moyen de paiement pour finaliser cet achat.
+Your card was declined.,Votre carte a été refusée.
+Your card has expired.,Votre carte a expiré.
+Your card's security code is incorrect.,Le code de sécurité de votre carte est incorrect.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","La carte n'a pas pu être traitée. Réessayez le paiement. Si le problème persiste, contactez l'émetteur de votre carte."
